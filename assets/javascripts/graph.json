@@ -1,0 +1,29 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Home_Page",
+      "symbolSize": 0,
+      "value": "/haihabk51/mkdocs_template/"
+    },
+    {
+      "id": "1",
+      "name": "Tags Page",
+      "symbolSize": 0,
+      "value": "/haihabk51/mkdocs_template/tags/"
+    },
+    {
+      "id": "2",
+      "name": "C\u00e1c B\u01b0\u1edbc t\u1ea1o Website v\u1edbi MKDocs",
+      "symbolSize": 0,
+      "value": "/haihabk51/mkdocs_template/Folder-Notes/Cac-buoc-tao-website-voi-mkdocs/"
+    },
+    {
+      "id": "3",
+      "name": "T\u1ea1o Web v\u1edbi Publish Obsidian",
+      "symbolSize": 0,
+      "value": "/haihabk51/mkdocs_template/Folder-Notes/Tao-web-voi-publish-obsidian/"
+    }
+  ],
+  "links": []
+}
